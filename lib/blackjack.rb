@@ -57,7 +57,7 @@ end
 def runner
   welcome
   sum = initial_round
-  #binding.pry
+  binding.pry
   hit?(sum)
  
 end
